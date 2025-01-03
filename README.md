@@ -10,3 +10,6 @@ Winter Internship 2k24 by KJSIT (Comps Dept.)
     - Train a GAN with generator-discriminator adversarial loss.
 - **Learning Outcome:** Understanding GAN architectures, image synthesis, and model evaluation.
 - **Stretch Goal:** Generate synthetic training data to boost performance in other tasks.
+
+# Screen Recording Demonstrating The Working of Model
+https://github.com/user-attachments/assets/f5791c3a-1c92-45e6-ad85-5e9c5551a8dd
